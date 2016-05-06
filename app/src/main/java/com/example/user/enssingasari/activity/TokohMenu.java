@@ -1,11 +1,12 @@
 package com.example.user.enssingasari.activity;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.user.enssingasari.R;
 
-public class TokohMenu extends AppCompatActivity {
+public class TokohMenu extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

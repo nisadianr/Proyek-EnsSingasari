@@ -1,6 +1,8 @@
 package com.example.user.enssingasari.activity;
 
 import android.app.Activity;
+import android.app.FragmentTransaction;
+import android.content.Intent;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
@@ -38,9 +40,6 @@ public class MainMenu extends AppCompatActivity {
      */
     private ViewPager mViewPager;
 
-
-
-
     ImageSwitcher myImageSwitcher;
     Button nextImageButton;
 
@@ -68,7 +67,7 @@ public class MainMenu extends AppCompatActivity {
     /**
      * A placeholder fragment containing a simple view.
      */
-    public static class PlaceholderFragment extends Fragment {
+    public static class PlaceholderFragment extends Fragment implements View.OnClickListener{
         /**
          * The fragment argument representing the section number for this
          * fragment.
@@ -94,11 +93,10 @@ public class MainMenu extends AppCompatActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_menu, container, false);
-//            TextView textView = (TextView) rootView.findViewById(R.id.section_label);
-//            textView.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
 
             ImageView imageView = (ImageView) rootView.findViewById(R.id.image_label);
             imageView.setImageResource(getImageMenu(getArguments().getInt(ARG_SECTION_NUMBER)));
+            imageView.setOnClickListener(this);
 
             return rootView;
         }
@@ -113,6 +111,30 @@ public class MainMenu extends AppCompatActivity {
                     return R.drawable.mainmenu_peta;
             }
             return R.drawable.mainmenu_glosarium;
+        }
+
+        @Override
+        public void onClick(View v) {
+            //for new activity after menu
+            Intent i;
+            Activity act = getActivity();
+            switch ((getArguments().getInt(ARG_SECTION_NUMBER))){
+                case 1:
+                    //Tokoh menu
+                    i = new Intent(act,TokohMenu.class);
+                    startActivity(i);
+                    break;
+                case 2:
+                    //Timeline menu
+                    i = new Intent(act,TokohMenu.class);
+                    startActivity(i);
+                    break;
+                case 3:
+                    //Peta Menu
+                    i = new Intent(act,TokohMenu.class);
+                    startActivity(i);
+                    break;
+            }
         }
     }
 

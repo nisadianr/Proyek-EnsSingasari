@@ -19,7 +19,7 @@
         </activity>
         <activity
             android:name=".activity.MainMenu"
-            android:screenOrientation="landscape" />
+            android:screenOrientation="landscape"></activity>
         <activity android:name=".activity.TokohMenu"
             android:screenOrientation="landscape"></activity>
     </application>

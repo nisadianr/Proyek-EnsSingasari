@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">EnsSingasari</string>
+    <string name="app_name">Ensiklopedia Singasari</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="tokoh_title">Tokoh Singasari</string>
 </resources>

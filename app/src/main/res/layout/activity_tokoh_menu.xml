@@ -72,7 +72,7 @@
                     android:layout_height="@dimen/radio_button_height" />
                 <RadioButton
                     android:id="@+id/radio_tokoh5"
-                    android:drawableBottom="@mipmap/ic_launcher"
+                    android:drawableBottom="@drawable/icon_tokoh_parameswara"
                     android:layout_width="@dimen/radio_button_width"
                     android:layout_height="@dimen/radio_button_height" />
                 <RadioButton
@@ -111,6 +111,7 @@
             android:layout_marginLeft="20dp"
             android:layout_alignParentEnd="true" />
         <ImageView
+            android:id="@+id/trivia_button"
             android:background="@drawable/tokoh_trivia_button"
             android:layout_width="150dp"
             android:layout_height="50dp"

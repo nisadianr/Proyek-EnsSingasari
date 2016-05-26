@@ -13,12 +13,24 @@ import android.widget.RadioGroup;
 
 import com.example.user.enssingasari.R;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.util.HashMap;
 
 public class TokohMenuActivity extends Activity {
 
-    private HashMap<Integer,Integer> data = attachData();
+    private HashMap<Integer,JSONObject> data_image;
+    int title_res = R.drawable.title_tokoh_kenarok;
     private Dialog dialog_silsilah;
+
+    public TokohMenuActivity() {
+        try {
+            data_image = attachDataImage();
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +43,7 @@ public class TokohMenuActivity extends Activity {
         final ImageView desc_tokoh = (ImageView) findViewById(R.id.tokoh_desc);
         ImageView silsilah = (ImageView) findViewById(R.id.silsilah_tokoh);
         Button home =(Button) findViewById(R.id.home_button);
+        ImageView trivia = (ImageView) findViewById(R.id.trivia_button);
 
         //set resource
         title_tokoh.setImageResource(R.drawable.title_tokoh_kenarok);
@@ -38,6 +51,32 @@ public class TokohMenuActivity extends Activity {
         radioGroup.check(R.id.radio_tokoh1);
 
         //set listener
+        trivia.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                final Dialog dialog_trivia = new Dialog(TokohMenuActivity.this);
+                dialog_trivia.requestWindowFeature(Window.FEATURE_NO_TITLE);
+                dialog_trivia.setContentView(R.layout.popup_trivia_tokoh);
+
+                ImageView description = (ImageView) dialog_trivia.findViewById(R.id.desc_tokoh_trivia);
+                ImageView image = (ImageView) dialog_trivia.findViewById(R.id.image_tokoh_trivia);
+                try {
+                    description.setImageResource(getImageTokoh(title_res,"tdesc"));
+                    image.setImageResource(getImageTokoh(title_res,"timage"));
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+
+                Button close_btn = (Button) dialog_trivia.findViewById(R.id.close_button);
+                close_btn.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        dialog_trivia.cancel();
+                    }
+                });
+                dialog_trivia.show();
+            }
+        });
         home.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -48,7 +87,6 @@ public class TokohMenuActivity extends Activity {
             @Override
             public void onClick(View v) {
                 dialog_silsilah = new Dialog(TokohMenuActivity.this);
-                dialog_silsilah.setTitle("Silsilah Tokohx");
                 dialog_silsilah.requestWindowFeature(Window.FEATURE_NO_TITLE);
                 dialog_silsilah.setContentView(R.layout.popup_silsilah_tokoh);
                 dialog_silsilah.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
@@ -68,50 +106,80 @@ public class TokohMenuActivity extends Activity {
         radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
-                int title_res = 0;
-                int desc_res =0;
 
                 switch (radioGroup.getCheckedRadioButtonId()){
                     case R.id.radio_tokoh1:
                         title_res = R.drawable.title_tokoh_kenarok;
-                        desc_res = R.drawable.desc_tokoh_kenarok;
                         break;
                     case R.id.radio_tokoh2:
                         title_res = R.drawable.title_tokoh_kendedes;
-                        desc_res = R.drawable.desc_tokoh_kendedes;
                         break;
                     case R.id.radio_tokoh3:
                         title_res = R.drawable.title_tokoh_tunggulametung;
-                        desc_res = R.drawable.desc_tokoh_tunggulametung;
                         break;
                     case R.id.radio_tokoh4:
                         title_res = R.drawable.title_tokoh_empugandring;
-                        desc_res = R.drawable.desc_tokoh_empugandring;
                         break;
                     case R.id.radio_tokoh5:
                         title_res = R.drawable.title_tokoh_parameswara;
-                        desc_res = R.drawable.desc_tokoh_parameswara;
                         break;
                     case R.id.radio_tokoh6:
                         title_res = R.drawable.title_tokoh_kertanegara;
-                        desc_res = R.drawable.desc_tokoh_kertanegara;
                         break;
                 }
-                image_tokoh.setImageResource(data.get(title_res));
+                try {
+                    image_tokoh.setImageResource(getImageTokoh(title_res,"image"));
+                    desc_tokoh.setImageResource(getImageTokoh(title_res,"desc"));
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
                 title_tokoh.setImageResource(title_res);
-                desc_tokoh.setImageResource(desc_res);
             }
         });
     }
 
-    HashMap<Integer,Integer> attachData(){
-        HashMap<Integer,Integer> data = new HashMap<>();
-        data.put(R.drawable.title_tokoh_kenarok,R.drawable.image_tokoh_kenarok);
-        data.put(R.drawable.title_tokoh_kendedes,R.drawable.image_tokoh_kendedes);
-        data.put(R.drawable.title_tokoh_tunggulametung,R.drawable.image_tokoh_tunggulametung);
-        data.put(R.drawable.title_tokoh_empugandring,R.drawable.image_tokoh_empugandring);
-        data.put(R.drawable.title_tokoh_parameswara,R.drawable.image_tokoh_parameswara);
-        data.put(R.drawable.title_tokoh_kertanegara,R.drawable.image_tokoh_kertanegara);
+    private Integer getImageTokoh(Integer id,String code) throws JSONException {
+        return (Integer) data_image.get(id).get(code);
+    }
+
+    HashMap<Integer,JSONObject> attachDataImage() throws JSONException {
+        HashMap<Integer,JSONObject> data = new HashMap<>();
+        data.put(R.drawable.title_tokoh_kenarok,
+                new JSONObject().put("image",R.drawable.image_tokoh_kenarok)
+                .put("desc",R.drawable.desc_tokoh_kenarok)
+                .put("timage",R.drawable.trivia_image_kenarok)
+                .put("tdesc",R.drawable.trivia_desc_kenarok));
+
+        data.put(R.drawable.title_tokoh_kendedes,
+                new JSONObject().put("image",R.drawable.image_tokoh_kendedes)
+                .put("desc",R.drawable.desc_tokoh_kendedes)
+                .put("timage",R.drawable.trivia_image_kendedes)
+                .put("tdesc",R.drawable.trivia_desc_kendedes));
+
+        data.put(R.drawable.title_tokoh_tunggulametung,
+                new JSONObject().put("image",R.drawable.image_tokoh_tunggulametung)
+                        .put("desc",R.drawable.desc_tokoh_tunggulametung)
+                        .put("timage",R.drawable.trivia_image_tunggulametung)
+                        .put("tdesc",R.drawable.trivia_desc_tunggulametung));
+
+        data.put(R.drawable.title_tokoh_empugandring,
+                new JSONObject().put("image",R.drawable.image_tokoh_empugandring)
+                        .put("desc",R.drawable.desc_tokoh_empugandring)
+                        .put("timage",R.drawable.trivia_image_empugandring)
+                        .put("tdesc",R.drawable.trivia_desc_empugandring));
+
+        data.put(R.drawable.title_tokoh_parameswara,
+                new JSONObject().put("image",R.drawable.image_tokoh_parameswara)
+                        .put("desc",R.drawable.desc_tokoh_parameswara)
+                        .put("timage",R.drawable.trivia_image_parameswara)
+                        .put("tdesc",R.drawable.trivia_desc_parameswara));
+
+        data.put(R.drawable.title_tokoh_kertanegara,
+                new JSONObject().put("image",R.drawable.image_tokoh_kertanegara)
+                        .put("desc",R.drawable.desc_tokoh_kertanegara)
+                        .put("timage",R.drawable.trivia_image_kertanegara)
+                        .put("tdesc",R.drawable.trivia_desc_kertanegara));
+
 
         return data;
     }

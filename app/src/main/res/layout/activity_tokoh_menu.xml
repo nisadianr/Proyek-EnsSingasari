@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_tokoh"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".activity.TokohMenuActivity">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout">
+        <ImageView
+            android:src="@drawable/tokoh_title_menu"
+            android:layout_width="210dp"
+            android:layout_height="20dp" />
+    </RelativeLayout>
+    <Button
+        android:id="@+id/home_button"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/home_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp" />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="278dp"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_alignParentBottom="true">
+
+        <ImageView
+            android:id="@+id/nama_tokoh"
+            android:scaleType="fitXY"
+            android:layout_width="150dp"
+            android:layout_height="75dp"
+            android:src="@drawable/title_tokoh_kenarok"/>
+        <HorizontalScrollView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:id="@+id/horizontalScrollView">
+
+            <RadioGroup
+                android:id="@+id/radio_group"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:gravity="center_vertical">
+                <RadioButton
+                    android:id="@+id/radio_tokoh1"
+                    android:drawableBottom="@drawable/icon_tokoh_kenarok"
+                    android:layout_width="@dimen/radio_button_width"
+                    android:layout_height="@dimen/radio_button_height"/>
+                <RadioButton
+                    android:id="@+id/radio_tokoh2"
+                    android:drawableBottom="@drawable/icon_tokoh_kendedes"
+                    android:layout_width="@dimen/radio_button_width"
+                    android:layout_height="@dimen/radio_button_height" />
+                <RadioButton
+                    android:id="@+id/radio_tokoh3"
+                    android:drawableBottom="@drawable/icon_tokoh_tunggulametung"
+                    android:layout_width="@dimen/radio_button_width"
+                    android:layout_height="@dimen/radio_button_height" />
+                <RadioButton
+                    android:id="@+id/radio_tokoh4"
+                    android:drawableBottom="@drawable/icon_tokoh_empugandring"
+                    android:layout_width="@dimen/radio_button_width"
+                    android:layout_height="@dimen/radio_button_height" />
+                <RadioButton
+                    android:id="@+id/radio_tokoh5"
+                    android:drawableBottom="@mipmap/ic_launcher"
+                    android:layout_width="@dimen/radio_button_width"
+                    android:layout_height="@dimen/radio_button_height" />
+                <RadioButton
+                    android:id="@+id/radio_tokoh6"
+                    android:drawableBottom="@drawable/icon_tokoh_kertanegara"
+                    android:layout_width="@dimen/radio_button_width"
+                    android:layout_height="@dimen/radio_button_height" />
+            </RadioGroup>
+        </HorizontalScrollView>
+        <ImageView
+            android:id="@+id/image_big"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/nama_tokoh" />
+        <ImageView
+            android:id="@+id/tokoh_desc"
+            android:src="@drawable/desc_tokoh_kenarok"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_alignParentTop="true"
+            android:layout_toStartOf="@+id/silsilah_tokoh" />
+        <ImageView
+            android:src="@drawable/silsilah_text"
+            android:layout_width="50dp"
+            android:layout_height="10dp"
+            android:layout_above="@+id/silsilah_tokoh"
+            android:layout_alignParentEnd="true" />
+        <ImageView
+            android:id="@+id/silsilah_tokoh"
+            android:src="@drawable/silsilah_tokoh2"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_alignBottom="@+id/tokoh_desc"
+            android:layout_marginLeft="20dp"
+            android:layout_alignParentEnd="true" />
+        <ImageView
+            android:background="@drawable/tokoh_trivia_button"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_toEndOf="@+id/image_big" />
+    </RelativeLayout>
+
+</RelativeLayout>

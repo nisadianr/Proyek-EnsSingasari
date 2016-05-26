@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".activity.StartScreen"
+            android:name=".activity.StartScreenActivity"
             android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,10 +18,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.MainMenu"
-            android:screenOrientation="landscape"></activity>
-        <activity android:name=".activity.TokohMenu"
-            android:screenOrientation="landscape"></activity>
+            android:name=".activity.MainMenuActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".activity.TokohMenuActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".activity.ArtifactActivity" />
+        <activity android:name=".activity.TimelineActivity"></activity>
     </application>
 
 </manifest>

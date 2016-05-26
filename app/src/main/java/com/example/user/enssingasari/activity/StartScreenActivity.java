@@ -4,24 +4,22 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.graphics.drawable.Drawable;
-import android.media.Image;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
-import android.widget.Toast;
 
 import com.example.user.enssingasari.R;
 
 //this class is for the start menu
 
-public class StartScreen extends Activity implements View.OnClickListener{
+public class StartScreenActivity extends Activity implements View.OnClickListener{
 
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.start_screen);
+        setContentView(R.layout.activity_start_screen);
 
         Button start = (Button) findViewById(R.id.start_button);
         start.setOnClickListener(this);
@@ -37,7 +35,8 @@ public class StartScreen extends Activity implements View.OnClickListener{
 
     @Override
     public void onClick(View v) {
-        Intent intent = new Intent(this, MainMenu.class);
+        Intent intent = new Intent(this, MainMenuActivity.class);
         startActivity(intent);
+        finish();
     }
 }

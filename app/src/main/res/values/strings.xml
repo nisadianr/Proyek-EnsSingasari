@@ -2,4 +2,10 @@
     <string name="app_name">Ensiklopedia Singasari</string>
     <string name="main_menu">Main Menu</string>
     <string name="tokoh_title">Tokoh Singasari</string>
+    <string name="tokoh1">Ken Arok</string>
+    <string name="tokoh2">Ken Dedes</string>
+    <string name="tokoh3">Tunggul Ametung</string>
+    <string name="tokoh4">Empu Gandring</string>
+    <string name="tokoh5">Parameswara</string>
+    <string name="tokoh6">Kertanegara</string>
 </resources>

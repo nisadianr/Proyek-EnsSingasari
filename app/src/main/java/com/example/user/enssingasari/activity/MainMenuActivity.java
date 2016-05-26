@@ -1,7 +1,6 @@
 package com.example.user.enssingasari.activity;
 
 import android.app.Activity;
-import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -9,21 +8,15 @@ import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.ContentFrameLayout;
 import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.Button;
-import android.widget.ImageSwitcher;
 import android.widget.ImageView;
-import android.widget.ListView;
 
 import com.example.user.enssingasari.R;
 
-public class MainMenu extends AppCompatActivity {
+public class MainMenuActivity extends AppCompatActivity {
 
     /**
      * The {@link android.support.v4.view.PagerAdapter} that will provide
@@ -33,20 +26,18 @@ public class MainMenu extends AppCompatActivity {
      * may be best to switch to a
      * {@link android.support.v4.app.FragmentStatePagerAdapter}.
      */
-    private SectionsPagerAdapter mSectionsPagerAdapter;
+    public SectionsPagerAdapter mSectionsPagerAdapter;
 
     /**
      * The {@link ViewPager} that will host the section contents.
      */
-    private ViewPager mViewPager;
+    public ViewPager mViewPager;
 
-    ImageSwitcher myImageSwitcher;
-    Button nextImageButton;
-
-    int imageSwitcherImages[] = {R.drawable.mainmenu_tokoh, R.drawable.mainmenu_sejarah, R.drawable.mainmenu_peta, R.drawable.mainmenu_glosarium};
-
-    int switcherImage = imageSwitcherImages.length;
-    int counter = -1;
+    /**
+     * A placeholder fragment containing a simple view.
+     */
+    Button left_button;
+    Button right_button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,11 +53,50 @@ public class MainMenu extends AppCompatActivity {
         // Set up the ViewPager with the sections adapter.
         mViewPager = (ViewPager) findViewById(R.id.container);
         mViewPager.setAdapter(mSectionsPagerAdapter);
+
+        left_button = (Button) findViewById(R.id.left_butoon);
+        right_button = (Button) findViewById(R.id.right_button);
+        setVisibilityButton();
+
+        left_button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mViewPager.setCurrentItem(mViewPager.getCurrentItem()-1);
+                setVisibilityButton();
+            }
+
+        });
+
+        right_button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mViewPager.setCurrentItem(mViewPager.getCurrentItem()+1);
+                setVisibilityButton();
+            }
+        });
+
+
     }
 
-    /**
-     * A placeholder fragment containing a simple view.
-     */
+    private void setVisibilityButton(){
+        if(mViewPager.getCurrentItem() == 0){
+            left_button.setVisibility(View.INVISIBLE);
+            right_button.setVisibility(View.VISIBLE);
+        }else if (mViewPager.getCurrentItem() == 2){
+            right_button.setVisibility(View.INVISIBLE);
+            left_button.setVisibility(View.VISIBLE);
+        }else{
+            right_button.setVisibility(View.VISIBLE);
+            left_button.setVisibility(View.VISIBLE);
+        }
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+
+    }
+
     public static class PlaceholderFragment extends Fragment implements View.OnClickListener{
         /**
          * The fragment argument representing the section number for this
@@ -91,10 +121,10 @@ public class MainMenu extends AppCompatActivity {
 
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                                 Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.fragment_menu, container, false);
+                                 final Bundle savedInstanceState) {
+            final View rootView = inflater.inflate(R.layout.fragment_menu, container, false);
 
-            ImageView imageView = (ImageView) rootView.findViewById(R.id.image_label);
+            final ImageView imageView = (ImageView) rootView.findViewById(R.id.image_label);
             imageView.setImageResource(getImageMenu(getArguments().getInt(ARG_SECTION_NUMBER)));
             imageView.setOnClickListener(this);
 
@@ -108,9 +138,9 @@ public class MainMenu extends AppCompatActivity {
                 case 2:
                     return R.drawable.mainmenu_sejarah;
                 case 3:
-                    return R.drawable.mainmenu_peta;
+                    return R.drawable.mainmenu_artefak;
             }
-            return R.drawable.mainmenu_glosarium;
+            return 0;
         }
 
         @Override
@@ -121,17 +151,17 @@ public class MainMenu extends AppCompatActivity {
             switch ((getArguments().getInt(ARG_SECTION_NUMBER))){
                 case 1:
                     //Tokoh menu
-                    i = new Intent(act,TokohMenu.class);
+                    i = new Intent(act,TokohMenuActivity.class);
                     startActivity(i);
                     break;
                 case 2:
                     //Timeline menu
-                    i = new Intent(act,TokohMenu.class);
+                    i = new Intent(act,TimelineActivity.class);
                     startActivity(i);
                     break;
                 case 3:
                     //Peta Menu
-                    i = new Intent(act,TokohMenu.class);
+                    i = new Intent(act,ArtifactActivity.class);
                     startActivity(i);
                     break;
             }
@@ -147,6 +177,7 @@ public class MainMenu extends AppCompatActivity {
         public SectionsPagerAdapter(FragmentManager fm) {
             super(fm);
         }
+
 
         @Override
         public Fragment getItem(int position) {

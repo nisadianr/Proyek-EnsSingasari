@@ -33,8 +33,8 @@ public class TokohMenuActivity extends Activity {
         Button home =(Button) findViewById(R.id.home_button);
 
         //set resource
-        title_tokoh.setImageResource(R.drawable.title_tokoh1);
-        image_tokoh.setImageResource(R.drawable.image_tokoh1);
+        title_tokoh.setImageResource(R.drawable.title_tokoh_kenarok);
+        image_tokoh.setImageResource(R.drawable.image_tokoh_kenarok);
         radioGroup.check(R.id.radio_tokoh1);
 
         //set listener
@@ -50,7 +50,7 @@ public class TokohMenuActivity extends Activity {
                 dialog_silsilah = new Dialog(TokohMenuActivity.this);
                 dialog_silsilah.setTitle("Silsilah Tokohx");
                 dialog_silsilah.requestWindowFeature(Window.FEATURE_NO_TITLE);
-                dialog_silsilah.setContentView(R.layout.popup_tokoh);
+                dialog_silsilah.setContentView(R.layout.popup_silsilah_tokoh);
                 dialog_silsilah.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
 
 
@@ -73,28 +73,28 @@ public class TokohMenuActivity extends Activity {
 
                 switch (radioGroup.getCheckedRadioButtonId()){
                     case R.id.radio_tokoh1:
-                        title_res = R.drawable.title_tokoh1;
-                        desc_res = R.drawable.desc_tokoh1;
+                        title_res = R.drawable.title_tokoh_kenarok;
+                        desc_res = R.drawable.desc_tokoh_kenarok;
                         break;
                     case R.id.radio_tokoh2:
-                        title_res = R.drawable.title_tokoh2;
-                        desc_res = R.drawable.desc_tokoh2;
+                        title_res = R.drawable.title_tokoh_kendedes;
+                        desc_res = R.drawable.desc_tokoh_kendedes;
                         break;
                     case R.id.radio_tokoh3:
-                        title_res = R.drawable.title_tokoh3;
-                        desc_res = R.drawable.desc_tokoh3;
+                        title_res = R.drawable.title_tokoh_tunggulametung;
+                        desc_res = R.drawable.desc_tokoh_tunggulametung;
                         break;
                     case R.id.radio_tokoh4:
-                        title_res = R.drawable.title_tokoh4;
-                        desc_res = R.drawable.desc_tokoh4;
+                        title_res = R.drawable.title_tokoh_empugandring;
+                        desc_res = R.drawable.desc_tokoh_empugandring;
                         break;
                     case R.id.radio_tokoh5:
-                        title_res = R.drawable.title_tokoh5;
-                        desc_res = R.drawable.desc_tokoh5;
+                        title_res = R.drawable.title_tokoh_parameswara;
+                        desc_res = R.drawable.desc_tokoh_parameswara;
                         break;
                     case R.id.radio_tokoh6:
-                        title_res = R.drawable.title_tokoh6;
-                        desc_res = R.drawable.desc_tokoh6;
+                        title_res = R.drawable.title_tokoh_kertanegara;
+                        desc_res = R.drawable.desc_tokoh_kertanegara;
                         break;
                 }
                 image_tokoh.setImageResource(data.get(title_res));
@@ -106,12 +106,12 @@ public class TokohMenuActivity extends Activity {
 
     HashMap<Integer,Integer> attachData(){
         HashMap<Integer,Integer> data = new HashMap<>();
-        data.put(R.drawable.title_tokoh1,R.drawable.image_tokoh1);
-        data.put(R.drawable.title_tokoh2,R.drawable.image_tokoh2);
-        data.put(R.drawable.title_tokoh3,R.drawable.image_tokoh3);
-        data.put(R.drawable.title_tokoh4,R.drawable.image_tokoh4);
-        data.put(R.drawable.title_tokoh5,R.drawable.image_tokoh5);
-        data.put(R.drawable.title_tokoh6,R.drawable.image_tokoh6);
+        data.put(R.drawable.title_tokoh_kenarok,R.drawable.image_tokoh_kenarok);
+        data.put(R.drawable.title_tokoh_kendedes,R.drawable.image_tokoh_kendedes);
+        data.put(R.drawable.title_tokoh_tunggulametung,R.drawable.image_tokoh_tunggulametung);
+        data.put(R.drawable.title_tokoh_empugandring,R.drawable.image_tokoh_empugandring);
+        data.put(R.drawable.title_tokoh_parameswara,R.drawable.image_tokoh_parameswara);
+        data.put(R.drawable.title_tokoh_kertanegara,R.drawable.image_tokoh_kertanegara);
 
         return data;
     }

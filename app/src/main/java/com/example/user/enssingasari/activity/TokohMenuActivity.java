@@ -2,9 +2,11 @@ package com.example.user.enssingasari.activity;
 
 import android.app.Activity;
 import android.app.Dialog;
+import android.content.DialogInterface;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.support.v7.app.AlertDialog;
 import android.view.View;
 import android.view.Window;
 import android.widget.Button;
@@ -44,6 +46,7 @@ public class TokohMenuActivity extends Activity {
         ImageView silsilah = (ImageView) findViewById(R.id.silsilah_tokoh);
         Button home =(Button) findViewById(R.id.home_button);
         ImageView trivia = (ImageView) findViewById(R.id.trivia_button);
+        ImageView video = (ImageView) findViewById(R.id.video);
 
         //set resource
         title_tokoh.setImageResource(R.drawable.title_tokoh_kenarok);
@@ -51,6 +54,22 @@ public class TokohMenuActivity extends Activity {
         radioGroup.check(R.id.radio_tokoh1);
 
         //set listener
+        video.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                final AlertDialog.Builder alertDialog = new AlertDialog.Builder(TokohMenuActivity.this);
+                alertDialog.setTitle("Unavailable");
+                alertDialog.setMessage("Video not Available");
+                alertDialog.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        dialog.dismiss();
+                    }
+                });
+                alertDialog.setCancelable(false);
+                alertDialog.create().show();
+            }
+        });
         trivia.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

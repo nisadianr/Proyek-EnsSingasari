@@ -7,7 +7,10 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:largeHeap="true"
+=======
+>>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
         android:theme="@style/AppTheme">
         <activity
             android:name=".activity.StartScreenActivity"
@@ -24,6 +27,7 @@
         <activity
             android:name=".activity.TokohMenuActivity"
             android:screenOrientation="landscape" />
+<<<<<<< HEAD
         <activity
             android:name=".activity.MenuArtefak"
             android:screenOrientation="landscape" />
@@ -36,6 +40,10 @@
         <activity
             android:name=".activity.Candi"
             android:screenOrientation="landscape" />
+=======
+        <activity android:name=".activity.ArtifactActivity" />
+        <activity android:name=".activity.TimelineActivity"></activity>
+>>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
     </application>
 
 </manifest>

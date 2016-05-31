@@ -1,0 +1,942 @@
+[
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/title_tokoh_kertanegara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/title_tokoh_kertanegara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/title_tokoh_kenarok.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/title_tokoh_kenarok.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/frame_popup_3.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/frame_popup_3.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/left_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/left_press.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/mainmenu_sejarah.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/mainmenu_sejarah.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_kidal_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_kidal_press.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_teks.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_teks.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/desc_tokoh_tunggulametung.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/desc_tokoh_tunggulametung.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/title_tokoh_tunggulametung.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/title_tokoh_tunggulametung.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_profile_teks_1.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_profile_teks_1.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/mainmenu_left_button.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/mainmenu_left_button.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_radenwijaya.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_radenwijaya.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_gayatri.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_gayatri.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/mula_malurung_highlight.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/mula_malurung_highlight.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/title_background.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/title_background.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_parameswara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_parameswara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_mula_malurung.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_mula_malurung.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_pressed.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_pressed.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/image_tokoh_kertanegara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/image_tokoh_kertanegara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_anusapati.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_anusapati.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_profile_peraga.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_profile_peraga.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_41.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_41.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/read_more.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/read_more.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_singasari_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_singasari_press.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_mahesacampaka.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_mahesacampaka.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/shade.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/shade.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_tribhuaneswari.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_tribhuaneswari.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_singasasri.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_singasasri.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_wisnuwardhana.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_wisnuwardhana.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/senjata_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/senjata_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/home_button_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/home_button_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_empugandring.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_empugandring.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/manjsuri_highlight.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/manjsuri_highlight.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_kanan_51.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_kanan_51.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_wurare_pressed.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_wurare_pressed.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/bg_loading.jpg",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/bg_loading.jpg"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_3n.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_3n.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_1_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_1_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_42_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_42_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_kanan_52.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_kanan_52.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/frame_popup_2.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/frame_popup_2.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_mula_malurung_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_mula_malurung_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_ranggawuni.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_ranggawuni.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_3_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_3_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_51.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_51.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_kenarok.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_kenarok.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_teks.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_teks.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_anusapati.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_anusapati.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/singasari_highlight.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/singasari_highlight.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/bg_tokoh.jpg",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/bg_tokoh.jpg"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_jago_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_jago_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/teks_prasasti_singosari.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/teks_prasasti_singosari.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_kendedes.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_kendedes.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/home_button_u.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/home_button_u.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_karakteristik_beda_candi.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_karakteristik_beda_candi.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/loading_glow.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/loading_glow.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/artefak_menu.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/artefak_menu.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/line_link.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/line_link.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/arca_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/arca_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/title_button.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/title_button.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/title_background_web.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/title_background_web.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/desc_tokoh_empugandring.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/desc_tokoh_empugandring.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_subcandi_lokasi.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_subcandi_lokasi.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/right_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/right_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_42n.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_42n.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_kertanegara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_kertanegara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_tunggulametung.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_tunggulametung.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/image_tokoh_parameswara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/image_tokoh_parameswara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_2.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_2.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_radenwijaya.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_radenwijaya.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_singasari.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_singasari.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_mula_malurung_pressed.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_mula_malurung_pressed.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_41n.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_41n.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/silsilah_text.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/silsilah_text.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/image_tokoh_tunggulametung.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/image_tokoh_tunggulametung.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/start_logo_web.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/start_logo_web.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_jawi_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_jawi_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/title_tokoh_parameswara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/title_tokoh_parameswara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_parameswara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_parameswara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_manjsuri_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_manjsuri_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_sumberawan.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_sumberawan.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/tokoh_trivia_button.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/tokoh_trivia_button.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/desc_tokoh_parameswara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/desc_tokoh_parameswara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/peta_singasari.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/peta_singasari.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_kidal.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_kidal.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/line.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/line.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_manjsuri.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_manjsuri.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/home_button_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/home_button_press.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/timeline.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/timeline.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_back_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_back_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/frame_popup_1.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/frame_popup_1.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_jawi_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_jawi_press.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/arca_pressed.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/arca_pressed.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_41_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_41_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_empugandring.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_empugandring.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_kanan_41.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_kanan_41.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/back_button.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/back_button.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/bg_artefak.jpg",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/bg_artefak.jpg"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/wurare_highlight.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/wurare_highlight.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_raden_wijaya.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_raden_wijaya.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/peta_manjsuri.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/peta_manjsuri.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/left_button_u.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/left_button_u.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_subcandi_profile.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_subcandi_profile.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_back_button_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_back_button_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/senjata_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/senjata_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/mainmenu_tokoh.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/mainmenu_tokoh.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_bg.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_bg.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_back_button_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_back_button_press.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/menu_tokoh_web.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/menu_tokoh_web.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/close_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/close_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/mainmenu_peta.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/mainmenu_peta.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/arca_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/arca_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_2_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_2_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/frame_popup_4.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/frame_popup_4.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_52.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_52.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_kertanegara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_kertanegara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_wurare.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_wurare.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_51n.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_51n.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_subcandi_bagian.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_subcandi_bagian.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/close_button_u.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/close_button_u.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_singasari_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_singasari_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_karakteristik_tabel.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_karakteristik_tabel.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/peta_mula_malurung.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/peta_mula_malurung.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/mainmenu_artefak.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/mainmenu_artefak.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_kanan_42.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_kanan_42.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_kidal_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_kidal_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/desc_tokoh_kendedes.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/desc_tokoh_kendedes.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_jago_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_jago_press.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/peta_wurare.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/peta_wurare.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_jago_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_jago_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/bg.jpg",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/bg.jpg"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/left_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/left_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/title_tokoh_kendedes.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/title_tokoh_kendedes.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/mainmenu_title.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/mainmenu_title.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_mahesacampaka.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_mahesacampaka.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_parameswara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_parameswara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_sumberawan_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_sumberawan_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/mainmenu_bg.jpg",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/mainmenu_bg.jpg"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/frame_popup_5.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/frame_popup_5.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/image_tokoh_kendedes.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/image_tokoh_kendedes.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_tribuwaneswari.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_tribuwaneswari.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_jawi.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_jawi.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/desc_tokoh_kenarok.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/desc_tokoh_kenarok.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/silsilah_image.jpg",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/silsilah_image.jpg"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_1.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_1.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/frame_popup_6.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/frame_popup_6.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_anusapati.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_anusapati.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/frame_popup_7.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/frame_popup_7.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_singasari_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_singasari_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/image_tokoh_empugandring.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/image_tokoh_empugandring.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_mahisacampaka.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_mahisacampaka.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_gayatri.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_gayatri.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/sejarah.jpg",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/sejarah.jpg"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/foto_arca_candi.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/foto_arca_candi.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/home_button.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/home_button.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_kendedes.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_kendedes.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_52_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_52_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_subcandi_black_border.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_subcandi_black_border.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/image_tokoh_kenarok.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/image_tokoh_kenarok.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/silsilah_tokoh2.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/silsilah_tokoh2.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/title_tokoh_empugandring.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/title_tokoh_empugandring.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_kanan_3.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_kanan_3.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/testing.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/testing.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_kanan_2.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_kanan_2.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_singasari_pressed.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_singasari_pressed.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_manjsuri_pressed.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_manjsuri_pressed.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_52n.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_52n.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_singasari_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_singasari_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_tunggulametung.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_tunggulametung.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_51_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_51_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_kanan_1.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_kanan_1.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/close_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/close_press.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/tokoh_title_menu.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/tokoh_title_menu.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/right_button_u.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/right_button_u.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_jago.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_jago.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/mainmenu_right_button.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/mainmenu_right_button.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_ranggawuni.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_ranggawuni.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_pressed.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_pressed.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/icon_tokoh_tunggulametung.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/icon_tokoh_tunggulametung.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_sumberawan_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_sumberawan_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_kenarok.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_kenarok.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/background_web.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/background_web.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_2n.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_2n.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_empugandring.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_empugandring.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/start_button_web.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/start_button_web.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_subcandi_karakteristik.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_subcandi_karakteristik.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_gayatri.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_gayatri.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_judul_candi.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_judul_candi.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_kidal_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_kidal_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_sumberawan_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_sumberawan_press.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_42.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_42.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_lokasi_jawi_norm.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_lokasi_jawi_norm.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_3.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_3.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/prasasti_wurare_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/prasasti_wurare_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_kenarok.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_kenarok.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_tribhuaneswari.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_tribhuaneswari.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_kanan_0.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_kanan_0.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_image_kendedes.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_image_kendedes.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/trivia_desc_kertanegara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/trivia_desc_kertanegara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_button.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_button.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/desc_tokoh_kertanegara.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/desc_tokoh_kertanegara.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/teks_prasasti.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/teks_prasasti.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/senjata_pressed.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/senjata_pressed.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/loading_teks.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/loading_teks.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/candi_bagian_1n.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/candi_bagian_1n.png"
+    },
+    {
+        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/drawable/right_press.png",
+        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/src/main/res/drawable/right_press.png"
+    }
+]

@@ -11,7 +11,10 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+<<<<<<< HEAD
 import android.view.WindowManager;
+=======
+>>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
 import android.widget.Button;
 import android.widget.ImageView;
 
@@ -44,7 +47,10 @@ public class MainMenuActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+<<<<<<< HEAD
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+=======
+>>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
         //activity menu
         setContentView(R.layout.activity_main_menu);
 
@@ -158,12 +164,20 @@ public class MainMenuActivity extends AppCompatActivity {
                     break;
                 case 2:
                     //Timeline menu
+<<<<<<< HEAD
                     i = new Intent(act,Timeline.class);
+=======
+                    i = new Intent(act,TimelineActivity.class);
+>>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
                     startActivity(i);
                     break;
                 case 3:
                     //Peta Menu
+<<<<<<< HEAD
                     i = new Intent(act,MenuArtefak.class);
+=======
+                    i = new Intent(act,ArtifactActivity.class);
+>>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
                     startActivity(i);
                     break;
             }

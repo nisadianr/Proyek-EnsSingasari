@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/rellayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.StartScreenActivity"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <!--<View-->
+        <!--android:id="@+id/backgroud_view"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent"-->
+        <!--android:background="@drawable/title_background"></View>-->
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/title_button"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginRight="190dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

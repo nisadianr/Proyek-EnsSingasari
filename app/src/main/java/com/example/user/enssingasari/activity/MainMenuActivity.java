@@ -46,7 +46,7 @@ public class MainMenuActivity extends AppCompatActivity {
 
         //activity menu
         setContentView(R.layout.activity_main_menu);
-//        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.

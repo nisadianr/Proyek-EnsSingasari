@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/lifeuniverse/Desktop/Proyek-EnsSingasari-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "E:\\home\\lifeuniverse\\Desktop\\Proyek-EnsSingasari-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\home\\lifeuniverse\\Desktop\\Proyek-EnsSingasari-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\EnsSingasari\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\AndroidStudioProjects\\EnsSingasari\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
     }
 ]

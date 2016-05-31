@@ -2,14 +2,6 @@ package com.example.user.enssingasari.activity;
 
 import android.app.Activity;
 import android.app.Dialog;
-<<<<<<< HEAD
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
-import android.os.Bundle;
-import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
-=======
 import android.content.DialogInterface;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -17,7 +9,7 @@ import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.view.View;
 import android.view.Window;
->>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
+import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.RadioGroup;
@@ -46,10 +38,7 @@ public class TokohMenuActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-<<<<<<< HEAD
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-=======
->>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
         setContentView(R.layout.activity_tokoh_menu);
 
         final ImageView title_tokoh = (ImageView) findViewById(R.id.nama_tokoh);
@@ -59,10 +48,7 @@ public class TokohMenuActivity extends Activity {
         ImageView silsilah = (ImageView) findViewById(R.id.silsilah_tokoh);
         Button home =(Button) findViewById(R.id.home_button);
         ImageView trivia = (ImageView) findViewById(R.id.trivia_button);
-<<<<<<< HEAD
-=======
         ImageView video = (ImageView) findViewById(R.id.video);
->>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
 
         //set resource
         title_tokoh.setImageResource(R.drawable.title_tokoh_kenarok);
@@ -70,8 +56,6 @@ public class TokohMenuActivity extends Activity {
         radioGroup.check(R.id.radio_tokoh1);
 
         //set listener
-<<<<<<< HEAD
-=======
         video.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -88,7 +72,6 @@ public class TokohMenuActivity extends Activity {
                 alertDialog.create().show();
             }
         });
->>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
         trivia.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

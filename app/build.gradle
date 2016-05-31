@@ -6,13 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.example.user.enssingasari"
-<<<<<<< HEAD
         minSdkVersion 15
         targetSdkVersion 20
-=======
-        minSdkVersion 18
-        targetSdkVersion 23
->>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
         versionCode 1
         versionName "1.0"
     }

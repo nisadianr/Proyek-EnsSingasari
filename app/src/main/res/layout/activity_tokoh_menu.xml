@@ -111,8 +111,6 @@
             android:layout_marginLeft="20dp"
             android:layout_alignParentEnd="true" />
         <ImageView
-<<<<<<< HEAD
-=======
             android:id="@+id/video"
             android:layout_width="190dp"
             android:layout_height="75dp"
@@ -120,7 +118,6 @@
             android:layout_above="@+id/trivia_button"
             android:layout_alignStart="@+id/trivia_button" />
         <ImageView
->>>>>>> 592d8563be8ed1c3f82a7c131f115b97bd313f79
             android:id="@+id/trivia_button"
             android:background="@drawable/tokoh_trivia_button"
             android:layout_width="150dp"

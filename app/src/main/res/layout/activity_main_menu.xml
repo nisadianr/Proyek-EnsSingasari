@@ -30,7 +30,8 @@
         android:layout_height="50dp"
         android:background="@drawable/mainmenu_left_button"
         android:layout_centerVertical="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true" />
 
     <Button
         android:id="@+id/right_button"
